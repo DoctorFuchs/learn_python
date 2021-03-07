@@ -1,1 +1,5 @@
-# learn_python
+# Python
+
+Goals:
+
+- each built-in function get a tutorial
